@@ -1,0 +1,5 @@
+{
+  plugins.treesitter = {
+    enalbe = true;
+  };
+}
