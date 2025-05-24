@@ -3,6 +3,7 @@
     enable = true;
     modules = {
       surround = {};
+      snippets = {};
       pairs = {};
       comment = {
         mappings = {
