@@ -1,5 +1,5 @@
 {
   plugins.treesitter = {
-    enalbe = true;
+    enable = true;
   };
 }
