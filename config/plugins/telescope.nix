@@ -1,4 +1,8 @@
+{pkgs, ...}:
 {
+  extraPlugins = with pkgs; [
+    riggrrip
+  ];
   plugins.telescope = {
     enable = true;
     extensions = {
