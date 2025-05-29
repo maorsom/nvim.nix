@@ -1,8 +1,5 @@
-{pkgs, ...}:
 {
-  extraPlugins = with pkgs; [
-    riggrrip
-  ];
+  dependencies.ripgrep.enable = true;
   plugins.telescope = {
     enable = true;
     extensions = {

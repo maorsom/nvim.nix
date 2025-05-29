@@ -1,5 +1,6 @@
 { pkgs, ... }:
 {
+  dependencies.lazygit.enable = true;
   extraPlugins = with pkgs.vimPlugins; [
     lazygit-nvim
   ];
