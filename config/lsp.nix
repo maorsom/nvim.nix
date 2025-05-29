@@ -34,6 +34,9 @@
         jsonls = {
           enable = true;
         };
+        nixd = {
+          enable = true;
+        };
       };
 
       keymaps = {

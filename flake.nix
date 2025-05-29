@@ -1,6 +1,6 @@
 {
   description = "livs neovim configuration, declaratively written using nix";
-
+  
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
     nixvim.url = "github:nix-community/nixvim";
