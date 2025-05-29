@@ -5,5 +5,6 @@
     ./keys.nix
     ./lsp.nix
     ./plugins
+    ./performance.nix
  ];
 }
