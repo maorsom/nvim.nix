@@ -1,9 +1,8 @@
 {
-	colorschemes.onedark = {
+	colorschemes.kanagawa = {
 		enable = true;
 		settings = {
-			style = "warmer";
-		};
-	};
-
+      theme = "wave";
+	  };
+  };
 }
